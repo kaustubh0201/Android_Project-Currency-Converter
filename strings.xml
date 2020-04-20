@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="button">Button</string>
+    <string name="convert">Convert</string>
+    <string name="value1">Enter the value :</string>
+    <string-array name="names">
+        <item>Dollar</item>
+        <item>Rupees</item>
+        <item>Euros</item>
+        <item>Yen</item>
+        <item>Yuan</item>
+        <item>Riyal</item>
+    </string-array>
+    <string name="given_value">Value</string>
+    <string name="select_the_currency_to_convert_from">Select the currency to convert from :</string>
+    <string name="to">To :</string>
+    <string name="converted_value">Converted Value</string>
+</resources>
